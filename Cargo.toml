@@ -2,6 +2,8 @@
 name = "cargo-exam"
 version = "0.1.0"
 edition = "2021"
+description = "cargo sub-command cause I can't remeber test commands"
+license = "MIT"
 
 [dependencies]
 
